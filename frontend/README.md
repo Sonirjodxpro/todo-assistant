@@ -167,5 +167,5 @@ MIT
 
 ## 测试通知效果，仅靠 commit 无效
 
-## 测试通知效果，仅靠branch
+## 测试通知效果，branch + commit
 
